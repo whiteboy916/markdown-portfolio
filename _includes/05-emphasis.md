@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*.JS, .py, .php,*
+
+
+**Learns as much as I can possible**
+
+
+_Never **QUITS** on anything_
